@@ -1,0 +1,11 @@
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/bin/Debug/netcoreapp2.0/EC.Web.Client.deps.json
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/bin/Debug/netcoreapp2.0/EC.Web.Client.runtimeconfig.json
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/bin/Debug/netcoreapp2.0/EC.Web.Client.runtimeconfig.dev.json
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/bin/Debug/netcoreapp2.0/EC.Web.Client.dll
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/bin/Debug/netcoreapp2.0/EC.Web.Client.pdb
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/obj/Debug/netcoreapp2.0/EC.Web.Client.csprojResolveAssemblyReference.cache
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/obj/Debug/netcoreapp2.0/EC.Web.Client.csproj.CoreCompileInputs.cache
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/obj/Debug/netcoreapp2.0/EC.Web.Client.AssemblyInfoInputs.cache
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/obj/Debug/netcoreapp2.0/EC.Web.Client.AssemblyInfo.cs
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/obj/Debug/netcoreapp2.0/EC.Web.Client.dll
+/Users/Dev/Projects/EC.SOA/EC.Web.Client/obj/Debug/netcoreapp2.0/EC.Web.Client.pdb

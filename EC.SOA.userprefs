@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{83450C1F-6D7B-491B-A841-46E7E87D5A8A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EC.Web.Client/src/Shared/Layout.js">
+    <Files>
+      <File FileName="EC.Web.Client/src/Login/Login.js" Line="1" Column="1" />
+      <File FileName="EC.Web.Client/src/app.js" Line="11" Column="11" />
+      <File FileName="EC.Web.Client/src/Shared/Layout.js" Line="25" Column="66" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EC.Web.Client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
